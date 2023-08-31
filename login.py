@@ -1,2 +1,2 @@
 print("Introduce tu usuario: ")
-print("Contraseña: ")
+print("Contraseñas: ")
