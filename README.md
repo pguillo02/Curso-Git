@@ -1,3 +1,3 @@
 # Curso-Git
 
-Creación de READ ME
+Creación de README
